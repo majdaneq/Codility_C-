@@ -145,6 +145,7 @@
   <ItemGroup>
     <ClInclude Include="BinaryGapC.h" />
     <ClInclude Include="CyclicRotation.h" />
+    <ClInclude Include="FrogJmp.h" />
     <ClInclude Include="OddOccurrencesInArray.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
@@ -153,6 +154,7 @@
     <ClCompile Include="Algorytmy.cpp" />
     <ClCompile Include="BinaryGapC.cpp" />
     <ClCompile Include="CyclicRotation.cpp" />
+    <ClCompile Include="FrogJmp.cpp" />
     <ClCompile Include="OddOccurrencesInArray.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
