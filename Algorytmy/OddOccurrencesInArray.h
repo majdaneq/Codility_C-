@@ -5,11 +5,14 @@
 #include "string"
 #include <math.h>
 #include "vector"
-class CyclicRotation
+
+using namespace std; 
+
+class OddOccurrencesInArray
 {
 public:
-	CyclicRotation();
-	~CyclicRotation();
-	int solutionx(vector<int> &A, int K);
+	OddOccurrencesInArray();
+	~OddOccurrencesInArray();
+	int solution(vector<int> &A);
 };
 
