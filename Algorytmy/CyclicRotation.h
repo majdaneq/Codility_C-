@@ -10,6 +10,6 @@ class CyclicRotation
 public:
 	CyclicRotation();
 	~CyclicRotation();
-	int solutionx(vector<int> &A, int K);
+	vector <int> solution(vector<int> &A, int K);
 };
 
