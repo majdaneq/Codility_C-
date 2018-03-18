@@ -4,6 +4,6 @@ class FrogJmp
 public:
 	FrogJmp();
 	~FrogJmp();
-	int solution(int X, int Y, int D)
+	int solution(int X, int Y, int D);
 };
 

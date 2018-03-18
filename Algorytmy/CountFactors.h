@@ -4,6 +4,6 @@ class CountFactors
 public:
 	CountFactors();
 	~CountFactors();
-	int solution(int N)
+	int solution(int N);
 };
 

@@ -1,6 +1,8 @@
 #include "stdafx.h"
 #include "PassingCars.h"
-
+#include <algorithm>
+#include<iostream>
+  
 #include <vector>
 //https://app.codility.com/demo/results/trainingHX4M8D-SDG/
 //Task Score
@@ -19,12 +21,6 @@ PassingCars::PassingCars()
 PassingCars::~PassingCars()
 {
 }
-
-// you can use includes, for example:
-#include <algorithm>
-#include<iostream>
-#include <vector>       
-
 
 int PassingCars::solution(vector<int> &A) {
 

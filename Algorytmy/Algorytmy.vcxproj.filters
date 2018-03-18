@@ -33,6 +33,21 @@
     <ClInclude Include="FrogJmp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="PermCheck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CountFactors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChocolatesByNumbers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PassingCars.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxProfit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -51,6 +66,21 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="FrogJmp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PermCheck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CountFactors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChocolatesByNumbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PassingCars.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxProfit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

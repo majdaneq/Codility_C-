@@ -1,10 +1,12 @@
 #pragma once
 #include "stdafx.h"
-#include "algorithm"
-#include "iostream"
-#include "string"
+#include <algorithm>
+#include <iostream>
+#include <string>
 #include <math.h>
-#include "vector"
+#include <vector>
+
+using namespace std;
 class CyclicRotation
 {
 public:
