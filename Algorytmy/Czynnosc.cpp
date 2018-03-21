@@ -34,8 +34,27 @@ vector<int> Czynnosc::Fibonacii(int n)
 	return vec;
 }
 
-deque<int> Czynnosc::Silnia()
+deque<int> Czynnosc::Silnia(int n)
 {
+	deque<int> deq;
+	if (n <= 2) { 
+		deq.push_back(n);
+		return deq;
+	}
+	double silnia = 2;
+	for (int i = 3; i <= n; i++)
+	{
+		silnia *= i;
+		deq.push_back(silnia);
+	}
+	return deq;
+}
+
+int Czynnosc::SilniaRek(int n)
+{	
+	if (n < 2)return 1;
+	else return n*SilniaRek(n - 1);
+
 
 }
 
