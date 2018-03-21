@@ -147,9 +147,11 @@
     <ClInclude Include="ChocolatesByNumbers.h" />
     <ClInclude Include="CountFactors.h" />
     <ClInclude Include="CyclicRotation.h" />
+    <ClInclude Include="Czynnosc.h" />
     <ClInclude Include="FrogJmp.h" />
     <ClInclude Include="MaxProfit.h" />
     <ClInclude Include="OddOccurrencesInArray.h" />
+    <ClInclude Include="Osoba.h" />
     <ClInclude Include="PassingCars.h" />
     <ClInclude Include="PermCheck.h" />
     <ClInclude Include="stdafx.h" />
@@ -161,9 +163,11 @@
     <ClCompile Include="ChocolatesByNumbers.cpp" />
     <ClCompile Include="CountFactors.cpp" />
     <ClCompile Include="CyclicRotation.cpp" />
+    <ClCompile Include="Czynnosc.cpp" />
     <ClCompile Include="FrogJmp.cpp" />
     <ClCompile Include="MaxProfit.cpp" />
     <ClCompile Include="OddOccurrencesInArray.cpp" />
+    <ClCompile Include="Osoba.cpp" />
     <ClCompile Include="PassingCars.cpp" />
     <ClCompile Include="PermCheck.cpp" />
     <ClCompile Include="stdafx.cpp">
