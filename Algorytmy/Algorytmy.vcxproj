@@ -154,6 +154,7 @@
     <ClInclude Include="Osoba.h" />
     <ClInclude Include="PassingCars.h" />
     <ClInclude Include="PermCheck.h" />
+    <ClInclude Include="SmartPointers.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
@@ -170,6 +171,7 @@
     <ClCompile Include="Osoba.cpp" />
     <ClCompile Include="PassingCars.cpp" />
     <ClCompile Include="PermCheck.cpp" />
+    <ClCompile Include="SmartPointers.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
