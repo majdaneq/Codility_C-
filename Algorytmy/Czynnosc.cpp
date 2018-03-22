@@ -13,9 +13,9 @@ Czynnosc::Czynnosc()
 Czynnosc::~Czynnosc()
 {
 }
-void Czynnosc::zabijSie()
+void Czynnosc::zjedz()
 {
-	std::cout << "JESTEM MARTWY" << endl;
+	std::cout << "Omnomnomnom" << endl;
 }
 
 void Czynnosc::GetTime()

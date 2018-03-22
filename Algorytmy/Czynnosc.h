@@ -11,7 +11,7 @@ public:
 	Czynnosc();
 	~Czynnosc();
 	double wynik;
-	void zabijSie();
+	void zjedz();
 	int a = 0;
 	void GetTime();
 	vector<int> Fibonacii(int n);
